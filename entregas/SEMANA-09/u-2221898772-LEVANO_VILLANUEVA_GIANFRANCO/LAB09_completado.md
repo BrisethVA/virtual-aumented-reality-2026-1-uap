@@ -70,9 +70,9 @@ Verificar: `Tools → ProBuilder → ProBuilder Window` debe abrirse.
 ## PASO 6 — Verificar rendimiento (10 min)
 
 Game View → Stats button:
-- Anotar Draw Calls: ______
-- Anotar Tris: ______
-- Anotar FPS: ______
+- Anotar Draw Calls: **24**
+- Anotar Tris: **2.1 k**
+- Anotar FPS: **213.7 FPS**
 
 Objetivo: Draw Calls < 50, Tris < 50,000, FPS > 30
 
